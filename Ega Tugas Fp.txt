@@ -1,0 +1,15 @@
+1. Jawaban pertama : Apa itu REST API?
+
+REST API adalah Jembatan anatara client dan server dimana client membutuhkan fitur delete, edit, view, tambah dan rest api akan menghubungkan ke server. REST API yang memiiki desain yang sesuai dengan prinsip REST (representational state transfer). REST memberikan tingkat fleksibilitas dan kebebasan yang relatif tinggi bagi pengembang. Fleksibilitas ini hanyalah salah satu alasan mengapa REST API muncul sebagai metode umum untuk menghubungkan komponen dan aplikasi dalam arsitektur microservices.
+
+3. Jawaban ketiga : Apa itu headless architecture dan bagaimana cara kerjanya?
+
+headless architecture adalah bagian dari arsitektur CMS yang dipisahkan. Dalam model headless, data dan presentasi ditangani secara terpisah sebagai paket kapabilitas bisnis (PBC) yang terhubung melalui API untuk bekerja secara independen namun sinkron untuk menciptakan pengalaman digital yang kompleks. Dalam headless architecture, backend dipisahkan dari frontend dan bertanggung jawab untuk menyimpan dan menampilkan data melalui titik akhir API. Karena backend dan frontend terpisah, bagian yang dilihat pengguna (bagian presentasi visual), adalah tugas pengembang frontend (kebanyakan). Headless architecture adalah konsep pengembangan software yang memisahkan lapisan frontend (antarmuka pengguna – UI) dan lapisan backend (logika bisnis) situs web. Dengan cara ini, bahkan sebagian besar bisnis dewasa mendapatkan kemampuan manuver dan fleksibilitas dari sebuah startup.
+
+Pada prinsipnya, sistem headless mencakup serangkaian solusi: frontend headless, platform headless commerce, CMS headless, pencarian atau pembayaran.
+
+Kelebihannya : Dapat Berkreasi Lebih Dengan Konten
+
+Karena headless CMS terpisah dengan frontend atau tampilan depan contohnya layar website maka tampilan website tidak terbatas pada tema-tema yang disediakan platform traditional CMS atau harus ribet menggunakan custom CSS.
+
+Kita bisa berkreasi membuat konten ataukah mau tulisan diselingi foto, video, audio, slideshow, tata letak yang bebas, animasi, dan semua ini bisa ditampilkan di frontend framework apapun yang kamu pilih: website, layar TV, smartwatch dan lain-lain.
